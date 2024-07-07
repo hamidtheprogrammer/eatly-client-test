@@ -48,11 +48,11 @@ const OurStory: React.FC = () => {
         className="story-content relative z-50 top-[5%] flxColStart gap-7 pl-5"
       >
         <p className="">OUR STORY</p>
-        <h1 className="text-5xl font-semibold">
+        <h1 className="text-5xl max-md:text-xl font-semibold">
           Join us and indulge in the perfect blend of tradition and innovation,
           served with passion and care.
         </h1>
-        <p>
+        <p className="text-sm">
           Our restaurant offers a delightful fusion of flavors crafted from the
           freshest local ingredients. Whether you're savoring a romantic dinner,
           enjoying a family gathering, or celebrating a special occasion, our
